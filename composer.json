@@ -1,0 +1,20 @@
+{
+    "name": "naxhh/busbus",
+    "description": "An implementation of the Message bus pattern for PHP Applications",
+    "keywords": ["message bus", "command bus", "hexagonal"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ignacio Tolstoy",
+            "email": "arkantos798@gmail.com",
+            "role": "Developer"
+        }
+    ],
+
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nax\\BusBus\\": "src/BusBus/"
+        }
+    }
+}
