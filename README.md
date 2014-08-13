@@ -7,4 +7,4 @@ The main idea is to provide a way to interact with a specific CORE layer in a de
 This project started for a pet project and was reused in different projects.
 So finally it become open sourcered to make it easier to maintain.
 
-The implementation was based on the article [Hexagonal Architecture](fideloper.com/hexagonal-architecture) of @fideloper
+The implementation was based on the article [Hexagonal Architecture](http://fideloper.com/hexagonal-architecture) of @fideloper
