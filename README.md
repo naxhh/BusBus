@@ -1,6 +1,8 @@
 Bus-Bus
 -----
 
+**This package was a PoC. Please use a better suported one like: https://github.com/SimpleBus/CommandBus**
+
 Bus-bus is a messaging bus implementation for commands AKA a command bus.
 The main idea is to provide a way to interact with a specific CORE layer in a decoupled way.
 
